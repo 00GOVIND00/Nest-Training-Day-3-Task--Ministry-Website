@@ -1,0 +1,36 @@
+#container-fluids{
+    gap: 20px;
+    background-color: #1a3c6e;    
+}
+.hero-text{
+    padding-top: 20px;
+    margin-bottom: 0;
+    font-weight: bolder;
+    color: white;
+}
+.subtext{
+    margin-top:0 ;
+    color: #bcd0ee;
+}
+.container-fluid{
+       display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.subinformation{
+    width: 70%
+    ;
+}
+
+.subinformation p{
+line-height: 2;
+font-size: large;
+padding-top: 20px;  
+padding-left: 40px;
+}
+
+.infor-title{
+    font-weight: bold;
+    border-bottom: 2px solid rgb(195, 186, 134);
+}

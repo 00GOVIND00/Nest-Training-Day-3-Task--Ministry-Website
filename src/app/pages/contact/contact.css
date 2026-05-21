@@ -1,0 +1,36 @@
+#container-fluids{
+    gap: 20px;
+    background-color: #1a3c6e;    
+}
+.hero-text{
+    padding-top: 20px;
+    margin-bottom: 0;
+    font-weight: bolder;
+    color: white;
+}
+.subtext{
+    margin-top:0 ;
+    color: #bcd0ee;
+}
+.container-fluid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+    .contacttitle{
+        padding-top: 20px;
+        padding-left: 30px;
+        margin-left: 200px;
+        border-bottom: 2px solid rgb(195, 186, 134);
+        width: 70%;
+    }
+    form{
+        width: 70%;
+        margin-left: 200px;        
+        padding: 40px;
+    }
+    .form-label{
+        font-weight: bold;
+        color: #1a3c6e;
+    }

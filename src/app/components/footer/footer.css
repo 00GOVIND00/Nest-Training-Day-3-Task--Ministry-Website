@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color: #0e2344;
+  
+}
+  p{
+        color: whitesmoke;
+        font-weight: lighter;
+    }
+    .nav-item a {
+        color: whitesmoke;
+        font-weight: lighter;
+        margin-right: 50px;
+    }
+
